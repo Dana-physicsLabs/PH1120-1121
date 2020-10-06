@@ -11,7 +11,7 @@ Week | Date| Fully Remote | Group A |	Group B	| Due Date (The Monday after)
 
 
 
-1 |Oct 21-23 (half week)|	|Pre Lab Quiz	|Pre Lab Quiz	|Pre Lab Quiz	|Oct 23 or 24th	
+1 |Oct 21-23 (half week)|Pre Lab Quiz|Pre Lab Quiz|Pre Lab Quiz	|Oct 23 or 24th	
 2|	Oct 26	|Lab 1R	|Lab 2	|Lab 1R	|Nov 2	
 3|	Nov 2	|Lab 2R	|Lab 1R	|Lab 2	|Nov 9	
 4|	Nov 9	|Lab 3R	|Lab 3	|	|Nov 16	
